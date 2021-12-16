@@ -7,11 +7,15 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 
 **Initial Supply:** 1 Billion
 
+**Token Contract:** https://polygonscan.com/address/0xF10e7f2DAf275C7003266f29A19FB2Ef7f3CC977
+
+**Network
+
 **Governance Token:** GXP
 
 **Initial Supply:** Zero, to be earned from in-metaverse activities
 
-**First Year Emmissions:** 33%
+**First Year Emissions:** 33%
 
 **Subsequent Year Emmissions:** By governance proposal  
 
