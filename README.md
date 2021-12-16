@@ -4,12 +4,15 @@ Gamestate is a megaverse nexus, uniting gamers, fans, developers, creators, and 
 U-State unified profiles solve the problem of fragmented gaming accounts and achievements; allowing gamers to create and import their existing game profiles and leaderboard ranks, collated into a single portable, immutable, privacy-centric, achievements-based blockchain digital identity profile for ultimate flexing and bragging rights!
 
 **Token:** STATE
+
 **Initial Supply:** 1 Billion
 
 **Governance Token:** GXP
+
 **Initial Supply:** Zero, to be earned from in-metaverse activities
 
 **First Year Emmissions:** 33%
+
 **Subsequent Year Emmissions:** By governance proposal  
 
 ## Project links
