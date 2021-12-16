@@ -31,4 +31,30 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 
 **Medium** https://medium.com/@gamestate
 
-**Telegram:** https://t.me/GamestateOfficial
+**Telegram** https://t.me/GamestateOfficial
+
+## NFT Sales
+
+1111 x Quantum Accelerators
+Week 3 2021-12
+
+## Launchpads
+
+**[Starter.xyz](https://starter.investments/#/pool/33)
+Start: December 16, 2021 02:00 AM GMT
+End: December 19, 2021 02:00 AM GMT
+Tokens: 5 Million
+Price: 0.04 USDC
+
+
+## Exchanges
+
+https://tribaldex.com/trade/SWAP.STATE
+
+https://hive-engine.com/?p=market&t=SWAP.STATE
+
+## Swap Pools / Farms
+
+https://beeswap.dcity.io/swap?pools&search=state
+
+https://tribaldex.com/dieselpools/pools (Type "STATE" in the search BAR)
