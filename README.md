@@ -22,6 +22,16 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 
 **Pitch Deck:** [Pitch Deck Link](https://docs.google.com/presentation/d/1RnP4BVUzkm8dxNpl9WijcnW4WF5uRqzt/present?slide=id.p1)
 
+## Blogs
+
+**Medium** https://medium.com/@gamestate
+
+**Blurt** https://blurt.blog/@gamestate
+
+**Peakd** https://peakd.com/@gamestate
+
+**Steem** https://steemit.com/@gamestate
+
 ## Social Links
 **Twitter** https://twitter.com/Gamestate_one
 
@@ -29,9 +39,9 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 
 **Discord** https://discord.gamestate.one
 
-**Medium** https://medium.com/@gamestate
-
 **Telegram** https://t.me/GamestateOfficial
+
+
 
 ## NFT Sales
 
