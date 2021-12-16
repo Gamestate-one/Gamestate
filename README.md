@@ -71,3 +71,5 @@ https://hive-engine.com/?p=market&t=SWAP.STATE
 https://beeswap.dcity.io/swap?pools&search=state
 
 https://tribaldex.com/dieselpools/pools (Type "STATE" in the search bar)
+
+https://leodex.io/market/SWAP.STATE
