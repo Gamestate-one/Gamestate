@@ -40,10 +40,12 @@ Week 3 2021-12
 
 ## Launchpads
 
-**[Starter.xyz](https://starter.investments/#/pool/33)
+**[Starter.xyz](https://starter.investments/#/pool/33)**
 Start: December 16, 2021 02:00 AM GMT
 End: December 19, 2021 02:00 AM GMT
+
 Tokens: 5 Million
+
 Price: 0.04 USDC
 
 
@@ -57,4 +59,4 @@ https://hive-engine.com/?p=market&t=SWAP.STATE
 
 https://beeswap.dcity.io/swap?pools&search=state
 
-https://tribaldex.com/dieselpools/pools (Type "STATE" in the search BAR)
+https://tribaldex.com/dieselpools/pools (Type "STATE" in the search bar)
