@@ -33,11 +33,11 @@ In progress, 6 to 12 month vesting subject to negotiation, daily linear unlock
 
 **Blurt.blog Community Airdrop** 10 Million (1%)
 
-**Gamestate Corp.** 150 Million (15%) 12 months vesting, daily linear unlock
+**Gamestate Corp.** 150 Million (15%) 24 months vesting, daily linear unlock
 
-**Development Team** 50 Million (5%) 12 months vesting, daily linear unlock
+**Development Team** 50 Million (5%) 24 months vesting, daily linear unlock
 
-**Notional Ventures** 25 Million (2.5%) 12 months vesting, daily linear unlock
+**Notional Ventures** 25 Million (2.5%) 24 months vesting, daily linear unlock
 
 **Development Treasury** 50 Million (5%) unvested
 
@@ -45,7 +45,7 @@ In progress, 6 to 12 month vesting subject to negotiation, daily linear unlock
 
 **Liquidity Provision** 100 Million (10%) unvested
 
-**Advisors** 10 Million (1%) 12 months vesting, daily linear unlock
+**Advisors** 10 Million (1%) 24 months vesting, daily linear unlock
 
 ## Project links
 **Official Website:** Https://gamestate.one
