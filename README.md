@@ -9,7 +9,7 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 
 **Token Contract:** https://polygonscan.com/address/0xF10e7f2DAf275C7003266f29A19FB2Ef7f3CC977
 
-**Network
+**Network:** Polygon
 
 **Governance Token:** GXP
 
@@ -44,8 +44,6 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 **Discord** https://discord.gamestate.one
 
 **Telegram** https://t.me/GamestateOfficial
-
-
 
 ## NFT Sales
 
