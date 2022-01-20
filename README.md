@@ -76,17 +76,11 @@ In progress, 6 to 12 month vesting subject to negotiation, daily linear unlock
 ## NFT Sales
 
 1111 x Quantum Accelerators
-Week 3 2021-12
+Date: TBD
 
-## Launchpads
+## Other Links
 
-**[Starter.xyz](https://starter.investments/#/pool/33)**
-**Start:** December 16, 2021 02:00 AM GMT
-**End:** December 19, 2021 02:00 AM GMT
-
-**Tokens:** 5 Million
-
-**Price:** 0.04 USDC
+[Nyaltx.com](https://www.nyaltx.com/token-bnb-new/?logoid=641)
 
 ## Exchanges
 
