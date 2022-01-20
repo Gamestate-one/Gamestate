@@ -86,8 +86,6 @@ Date: TBD
 
 https://tribaldex.com/trade/SWAP.STATE
 
-https://hive-engine.com/?p=market&t=SWAP.STATE
-
 ## Swap Pools / Farms
 
 https://beeswap.dcity.io/swap?pools&search=state
