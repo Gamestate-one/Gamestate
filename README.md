@@ -78,9 +78,10 @@ In progress, 6 to 12 month vesting subject to negotiation, daily linear unlock
 1111 x Quantum Accelerators
 Date: TBD
 
-## Other Links
+## Index Sites
 
 [Nyaltx.com](https://www.nyaltx.com/token-bnb-new/?logoid=641)
+[CorporateRoadShow.com](https://corporateroadshow.com/profile/?logoid=8877)
 
 ## Exchanges
 
