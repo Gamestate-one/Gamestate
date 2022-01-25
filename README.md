@@ -81,6 +81,7 @@ Date: TBD
 ## Index Sites
 
 [Nyaltx.com](https://www.nyaltx.com/token-bnb-new/?logoid=641)
+
 [CorporateRoadShow.com](https://corporateroadshow.com/profile/?logoid=8877)
 
 ## Exchanges
