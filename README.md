@@ -5,7 +5,7 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 
 ## Tokenomics
 
-**Token:** STATE
+**Token:** STATE (Commercial and payment rails token)
 
 **Initial Supply:** 1 Billion
 
@@ -13,35 +13,36 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 
 **Network:** Polygon
 
-**First Year Emissions:** 33%
+**First Year Emissions:** 33% - Earned via GXP & STATE Staking, LP & DeFi participation). Emissions are an additional prorated daily mint over and above the initial 
+1 Bln supply. % Adjusted annually by governance proposal.
 
 **Subsequent Year Emmissions:** By governance proposal  
 
-**Governance Token:** GXP
+**Experience Token:** GXP
 
-**Initial Supply:** Zero, to be earned from in-metaverse activities
+**Initial GXP Supply:** Zero, to be earned from in-metaverse activities
 
 ### STATE Token Allocations
 
 **Polygon Public IDO** 386.75 Million (38.675%)
 To be distrbuted gradually in price appreciating tiers over multiple launchpads, IDO's, IEO's etc. Mixed vesting
 
-**Hive-Engine Boutique IDO** 20 Million (2%) - Completed ~100K USD raised. Unvested
+**Community Seed** 20 Million (2%) - Completed ~100K USD raised. Unvested
 
-**Private Rounds** 98.25 Million (9.825%)
-In progress, 6 to 12 month vesting subject to negotiation, daily linear unlock
+**Private Rounds** 185 Million (18.5%)
+In progress, 3 month cliff and 9 month vesting thereafter with daily linear unlock
 
-**Blurt.blog Community Airdrop** 10 Million (1%)
+**Blurt.blog Social Blockchain Airdrop** 10 Million (1%)
 
-**Gamestate Corp.** 150 Million (15%) 24 months vesting, daily linear unlock
+**Gamestate Team** 150 Million (15%) 24 months vesting, daily linear unlock
 
 **Development Team** 50 Million (5%) 24 months vesting, daily linear unlock
 
-**Notional Ventures** 25 Million (2.5%) 24 months vesting, daily linear unlock
+**Tech Advisory - Notional.Ventures** 25 Million (2.5%) 24 months vesting, daily linear unlock
 
-**Development Treasury** 50 Million (5%) unvested
+**Development Treasury** 50 Million (5%) 24 months vesting, daily linear unlock
 
-**General Treasury** 100 Million (10%) unvested
+**General Treasury** 100 Million (10%) 24 months vesting, daily linear unlock
 
 **Liquidity Provision** 100 Million (10%) unvested
 
