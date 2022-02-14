@@ -13,8 +13,7 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 
 **Network:** Polygon
 
-**First Year Emissions:** 33% - Earned via GXP & STATE Staking, LP & DeFi participation). Emissions are an additional prorated daily mint over and above the initial 
-1 Bln supply. % Adjusted annually by governance proposal.
+**First Year Emissions:** 33% - STATE earned via GXP & STATE Staking, LP & DeFi participation. Emissions are an additional prorated daily mint over and above the initial 1 Bln STATE token supply. % Adjusted annually by governance proposal.
 
 **Subsequent Year Emmissions:** By governance proposal  
 
@@ -24,7 +23,7 @@ U-State unified profiles solve the problem of fragmented gaming accounts and ach
 
 ### STATE Token Allocations
 
-**Polygon Public IDO** 386.75 Million (38.675%)
+**Polygon Public** 300 Million (30%)
 To be distrbuted gradually in price appreciating tiers over multiple launchpads, IDO's, IEO's etc. Mixed vesting
 
 **Community Seed** 20 Million (2%) - Completed ~100K USD raised. Unvested
